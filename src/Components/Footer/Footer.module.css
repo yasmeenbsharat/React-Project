@@ -1,0 +1,24 @@
+.footerContent h4{
+ font-weight: 700;
+ 
+}
+.footerContent p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.footerContent p a{
+    color: #1abc9c;
+    margin-left: 5px;
+}
+.footerContent p a:hover{
+color: #15967d;
+}
+.icons a{
+    width: 50px;
+    height: 50px;
+    line-height: 39px;
+    border-radius: 50%;
+}
+.icons a:focus{
+    box-shadow: 0 0 0 0.25rem rgb(248 249 250 / 50%);
+}
